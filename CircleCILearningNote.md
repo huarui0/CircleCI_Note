@@ -25,7 +25,7 @@
 
          ```
          2. Setting up Your Build on CircleCI
-            1. Sign up a CircleCI Account
+            - :a:Sign up a CircleCI Account
                - 选择 【Sign up With Bitbucket】
                - Create a unique username for Bitbucket Cloud
                   * bitbucket.org / wanglai
