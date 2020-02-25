@@ -14,5 +14,14 @@
                  - run: echo "A first hello"
 
          ```
+         2. Setting up Your Build on CircleCI
+            1. Sign up a CircleCI Account
+               - 选择 【Sign up With Bitbucket】
+               - Create a unique username for Bitbucket Cloud
+                  * bitbucket.org / wanglai
+               - 后续，创建项目或导入项目
+
+
+
 #
 #
