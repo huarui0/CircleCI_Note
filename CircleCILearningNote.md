@@ -1,3 +1,13 @@
+# CircleCI Learning Note
+   * 官网参考
+      + [Welcome to CircleCI Documentation](https://circleci.com/docs/)<br>
+      + [CircleCI Overview](https://circleci.com/docs/2.0/about-circleci/#section=getting-started)<br>
+      + Examples - 使用的例子，可以根据例子学习<>
+         - [Open Source Projects that use CircleCI](https://circleci.com/docs/2.0/example-configs/)<br>
+         - [Database Config Examples](https://circleci.com/docs/2.0/postgres-config/)<br>
+         - [Sample config.yml Files](https://circleci.com/docs/2.0/sample-config/)<br>
+         - [Tutorials and Sample Apps](https://circleci.com/docs/2.0/tutorials/)<br>
+         - [Using Orbs](https://circleci.com/docs/2.0/using-orbs/)<br>
 # Getting Started Introduction
    * [Getting Started Introduction](https://circleci.com/docs/2.0/getting-started/)<br>
       + 步骤
