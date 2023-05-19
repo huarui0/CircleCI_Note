@@ -1,4 +1,4 @@
-# CircleCI Learning Note
+# CircleCI Note
    * 官网参考
       + [Welcome to CircleCI Documentation](https://circleci.com/docs/)<br>
       + [CircleCI Overview](https://circleci.com/docs/2.0/about-circleci/#section=getting-started)<br>
